@@ -5,7 +5,7 @@ Script Ini Bukan Untuk Di Jual Melainkan Untuk Di Gunakan Untuk Semua Orang
 <p align="center">
     <img src="https://i.ibb.co/M5zdTWt/20221025-115823.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">𝙰𝚕𝚏𝚒𝚒𝚃𝚣𝚢 M𝚞𝚕𝚝𝚒-𝙳𝚎𝚟𝚒𝚌𝚎</h1>
+<h1 align="center">𝙰𝚕𝚏𝚒𝚒𝚃𝚣𝚢 𝙼𝚞𝚕𝚝𝚒-𝙳𝚎𝚟𝚒𝚌𝚎</h1>
 <p align="center">
   <a href="https://github.com/AlfiiTzy"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=AlfiiTzy +Multi+Device;Base+ori+by;saipulanuar;Recode+By+AlfiiTzy;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
